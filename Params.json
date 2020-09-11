@@ -1,0 +1,24 @@
+{
+    "OverrideModel": false,
+    
+    "WindowSize": 8,
+    "DataSplit": 0.9,
+    "ValidationSplit": 0.1,
+    "EpochCount": 100,
+    "BatchSize": 512,
+    "BetaF": 0.95,
+    "LearningRate": 0.001,
+    
+    "StartDate": "2015-01-01",
+    "EndDate": "2018-12-31",
+    "Period": 1,
+    "StartPosition": [54.667819, 25.248268],
+    "TotalSize": [4.2, 4.2],
+    "GridSize": [0.7, 0.7],
+    
+    "GoogleApiKey": "YOUR_GOOGLE_API_KEY",
+
+    "CrimeCodes": {
+        "HealthInjury": ["10020201","10020202","10020203","10020204"]
+    }    
+}
