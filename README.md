@@ -1,4 +1,4 @@
-# VilniusCityCrimePrediction
+# Vilnius City Crime Prediction
 
 ## Overview ##
 
